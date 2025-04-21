@@ -26,5 +26,5 @@ SurveyApi es una API REST desarrollada en C# con .NET Core 8.0 para la gestión 
 ## 📦 Instalación y ejecución local
 
 1. Clona el repositorio:
-git clone https://github.com/tu-usuario/SurveyApi.git
+git clone https://github.com/dark-knigh-TD/invitrocapital.git
 
